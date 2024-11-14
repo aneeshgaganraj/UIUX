@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    background-color: #f9f9f9;
+  }
+  
+  .header img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .popular-certifications img,
+  .fun-courses img,
+  .partners img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  
+  .features {
+    background-color: #f9f9f9;
+  }
+  
+  .social-links i{
+    background: black;
+    color: white;
+    transition: 0.5s ease;
+  }
+
+  .footer .social-icons a {
+    margin: 0 10px;
+    color: #000000;
+    ;
+  }
